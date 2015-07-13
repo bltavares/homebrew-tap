@@ -2,7 +2,7 @@ require "formula"
 
 class Kickstart < Formula
   homepage "https://github.com/bltavares/kickstart"
-  head "https://github.com/bltavares/kickstart/archive/master.tar.gz"
+  head "https://github.com/bltavares/kickstart.git"
 
   def install
     prefix.install Dir['*']
