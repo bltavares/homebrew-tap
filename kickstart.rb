@@ -1,5 +1,3 @@
-require "formula"
-
 class Kickstart < Formula
   homepage "https://github.com/bltavares/kickstart"
   head "https://github.com/bltavares/kickstart.git"

@@ -1,5 +1,3 @@
-require "formula"
-
 class Baseline < Formula
   homepage "https://github.com/bltavares/baseline"
   url "https://github.com/bltavares/baseline/archive/1.3.0.tar.gz"
