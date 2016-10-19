@@ -1,7 +1,7 @@
 class Baseline < Formula
   homepage "https://github.com/bltavares/baseline"
   url "https://github.com/bltavares/baseline/archive/1.3.0.tar.gz"
-  sha1 "27429f5f3e34b048ab19dc6d56afa12f913c60e5"
+  sha256 "86cef6a3fa7a23732fa1506c785abd151a492d203fb000014583e2749ce4e81b"
 
   devel do
     url "https://github.com/bltavares/baseline.git", :using => :git, :branch => "kickstart"
