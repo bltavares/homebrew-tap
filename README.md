@@ -7,6 +7,10 @@ This tap contains formulas for installing:
 - [baseline](https://github.com/bltavares/baseline)
 - [heartbeat](https://github.com/bltavares/heartbeat)
 
+As well as extra software:
+
+- [aws-env](https://github.com/naftulikay/aws-env/)
+
 ## Setup
 
 ```bash
